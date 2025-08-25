@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grok-upgrade"
+version = "0.1.0"
+description = "Skeleton code and upgrade notes for Grok‑1 to Grok‑2 architecture"
+authors = [ { name="xAI", email="dev@x.ai" } ]
+license = { file="LICENSE.txt" }
