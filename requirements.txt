@@ -1,0 +1,9 @@
+# Basic dependencies for Grok‑style models
+jax>=0.4.14
+jaxlib>=0.4.14
+haiku>=0.0.9
+numpy
+# Optional: Triton for efficient attention kernels
+# triton>=2.1.0
+# Optional: SGLang for serving Grok‑2 checkpoints
+# sglang>=0.1.0
